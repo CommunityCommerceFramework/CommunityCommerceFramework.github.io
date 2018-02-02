@@ -1,5 +1,12 @@
 theme: jekyll-theme-minimal
 
+name: Community Commerce Framework
+title: Community Commerce Framework
+description: A Fork of version 1 of a well known ecommerce framework
+
+#footer-links:
+#  github: CommunityCommerceFramework
+
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: UA-113448954-1
